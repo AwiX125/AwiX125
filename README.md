@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Frontend</p>
+<p align="center">Frontend</p>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">Backend</p>
+<p align="center">Backend</p>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left">Tools</p>
+<p align="center">Tools</p>
 
 ###
 
