@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Adam and I'm a Web Developer from Poland</p>
+<p align="left">My name is Adam and I'm a Web Developer from Poland ![image](https://github.com/user-attachments/assets/284c135b-0890-47eb-8965-44c5f0a99e19)
+</p>
 
 ###
 
