@@ -2,8 +2,7 @@
 
 ###
 
-<p align="left">My name is Adam and I'm a Web Developer from Poland ![image](https://github.com/user-attachments/assets/284c135b-0890-47eb-8965-44c5f0a99e19)
-</p>
+<p align="left">My name is Adam and I'm a Web Developer from Poland 🇵🇱</p>
 
 ###
 
@@ -11,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning React, Next.js<br>🎯 Goals: Creating better websites<br>🎲 Fun fact: I haven't got a job</p>
+<p align="left">
+  ✨ Creating bugs since 2020<br>
+  📚 I'm currently learning React, Next.js<br>
+  🎯 Goals: Creating better websites<br>
+  🎲 Fun fact: I haven't got a job</p>
 
 ###
 
