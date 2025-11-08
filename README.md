@@ -112,7 +112,16 @@
 
 ###
 
+<div align="center">
+
+### 
+
+Streak
+
+###
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=AwiX125&theme=gotham&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+</div>
 
 ###
 
